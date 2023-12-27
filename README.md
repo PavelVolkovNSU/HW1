@@ -1,2 +1,3 @@
 # HW1
-The first homework for the NSU neural networks course
+Павел Волков
+Набор функций для первого задания

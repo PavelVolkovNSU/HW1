@@ -26,7 +26,6 @@ def words_and_letters():
             else :
                 print("НЕТ")
                 break
-
         if len(word) > len(max):
             max = word
         if len(word) < len(min):
@@ -47,3 +46,7 @@ def great():
     Name = input()
     Surname = input()
     print("Здравствуйте,", Name, Surname)
+
+""" Остаточные знания: из опыта только пару курсов физфака
+1) Основы программирования (на С)
+2) Программирование на С++ и Python https://cpp-python-nsu.inp.nsk.su/program """

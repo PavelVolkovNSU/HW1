@@ -1,5 +1,3 @@
-import re
-
 def reverse_sort():
     num = []
     n = int(input())
